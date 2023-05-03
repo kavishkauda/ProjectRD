@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+/**/
+  .header-section {
+    background-image:url("./images/banner3.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+} 
+
+.banner-sect {
+    background-color: rgba(0, 0, 0, 0.171);
+    padding-top: 220px;
+    padding-bottom: 220px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.banner-sect-title {
+    font-size: 60px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.493);
+}
+.banner-sect-desc {
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/* Discover Section Styles */
+.discover-sect {
+    padding: 20px;
+    padding-bottom: 50px;
+    background-image:url("./images/wildlife.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.arts {
+    background-image: url("./images/devilmask.jpg");
+}
+
+.disc-container{
+    background-color: rgba(0, 0, 0, 0.445);
+    width: 50%;
+    margin-bottom: 50px;
+}
+.disc-title {
+    font-size: 50px;
+    font-weight: 700;
+    padding: 10px;
+}
+.disc-desc {
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+
+.half-trans-b {
+    color: rgba(0, 0, 0, 0.808);
+}
+.half-trans-w {
+    color: rgba(255, 255, 255, 0.781);
+}
+
+/* Culture Section Styles */
+.culture-sect {
+    padding: 20px;
+    padding-bottom: 50px;
+    background-image:url("./images/heritage.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.hotels {
+    background-image: url("./images/hotels.jpg");
+}
+.cul-container{
+    background-color: rgba(0, 0, 0, 0.445);
+    width: 50%;
+    margin-bottom: 50px;
+    margin-left: auto;
+}
+.cul-title {
+    font-size: 50px;
+    font-weight: 700;
+    padding: 10px;
+}
+.cul-desc {
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+
+/* Buttons and Anker Tags */
+a {
+    color: white;
+    text-decoration: none;
+}
+.btn-t {
+    background-color: rgba(0, 0, 0, 0.171);
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-color: white;
+}
+.btn-t:hover {
+    background-color: rgb(255, 254, 254);
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    border-color: rgba(255, 255, 255, 0);
+}
+
+.subscribe-section {
+    height: 500px;
+}
+.sub-table {
+    padding-top: 75px;
+    align-content: center;
+    background-color: white;
+}
+.sub-title {
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(26, 26, 26);
+}
+.sub-desc {
+    color: rgb(41, 41, 41);
+}
+.sub-input {
+    font-size: 20px;
+    padding: 5px;
+    width: 300px;
+}
+
+.btn-sub {
+    background-color: #F7BC00;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-color: white;
+    width: 150px;
+}
+.btn-sub:hover {
+    background-color: rgb(255, 254, 254);
+    color: #F7BC00;
+    padding: 10px;
+    font-size: 20px;
+    border-color: #F7BC00;
+}
+
+
+

@@ -1,0 +1,32 @@
+/* Where to Go section */
+.desti-sect {
+    padding: 20px;
+}
+.desti-title {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+.desti-container {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.desti-card {
+    width: min-content;
+    border: 0.5px solid rgb(46, 46, 46);
+    height: 213.5px;
+}
+
+.desti-card > img {
+    width: 204px;
+    height: 100px;
+}
+.desti-card > .title {
+    padding: 10px;
+    font-weight: 700;
+}
+.desti-card > .desc {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}

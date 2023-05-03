@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+/**/
+  .header-section {
+    background-image:url("./images/p2.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+} 
+
+.wildlife {
+    background-image: url("./images/p2.jpg");
+}
+.history {
+    background-image: url("./images/p1.jpg");
+}
+.artscrafts {
+    background-image: url("./images/p3.jpg");
+}
+.hotels {
+    background-image: url("./images/hotels/p4.jpg");
+}
+
+.banner-sect {
+    background-color: rgba(0, 0, 0, 0.377);
+    padding-top: 220px;
+    padding-bottom: 220px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.banner-sect-title {
+    font-size: 60px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.603);
+}
+.banner-sect-desc {
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/* Buttons and Anker Tags */
+a {
+    color: white;
+    text-decoration: none;
+}
+.btn-t {
+    background-color: rgba(0, 0, 0, 0.171);
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-color: white;
+}
+.btn-t:hover {
+    background-color: rgb(255, 254, 254);
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    border-color: rgba(255, 255, 255, 0);
+}
+
+/* Where to Go section */
+.desti-sect {
+    padding: 20px;
+}
+.desti-title {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+.desti-container {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.desti-card {
+    width: min-content;
+    border: 0.5px solid rgb(46, 46, 46);
+    height: 213.5px;
+}
+
+.desti-card > img {
+    width: 204px;
+    height: 100px;
+}
+.desti-card > .title {
+    padding: 10px;
+    font-weight: 700;
+}
+.desti-card > .desc {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+/* Top Place section */
+.top-sect {
+    padding: 20px;
+    padding-bottom: 50px;
+    background-image:url("./images/s2.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.ts-history {
+    background-image: url("./images/history/s1.jpg");
+}
+.ts-arts {
+    background-image: url("./images/crafts/m1.jpg");
+}
+.ts-hotels {
+    background-image: url("./images/hotels/p4.jpg");
+}
+.top-container{
+    background-color: rgba(0, 0, 0, 0.445);
+    width: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+}
+.top-title {
+    font-size: 40px;
+    font-weight: 700;
+    padding: 10px;
+}
+.top-desc {
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+
